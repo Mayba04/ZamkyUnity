@@ -43,21 +43,21 @@ public class Cloud : MonoBehaviour
         }
     }
 
-    void Update()
-    {
-        //if (Input.GetKeyDown(KeyCode.Space))
-        //{
-        //	Restart();
-        //}
-    }
+    //void Update()
+    //{
+    //    if (Input.GetKeyDown(KeyCode.Space))
+    //    {
+    //        Restart();
+    //    }
+    //}
 
     //void Restart()
     //{
-    //	foreach (GameObject sp in _spheres)
-    //	{
-    //		Destroy(sp);
-    //	}
+    //    foreach (GameObject sp in _spheres)
+    //    {
+    //        Destroy(sp);
+    //    }
 
-    //	Start();
+    //    Start();
     //}
 }
